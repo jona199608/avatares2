@@ -1,2 +1,2 @@
-# avatares2
+# avatares
 Created with CodeSandbox
